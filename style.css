@@ -694,6 +694,9 @@ header {
         max-width: 300px;
     }
 
+    .services-container{
+        margin-top: 15%;
+    }
 
     .packages-container,
     .team-members,
@@ -797,10 +800,11 @@ header {
 
     @media (max-width: 515px) {
         .title-header {
-            left: 28%;
+            left: 32%;
             transform: translate(-50%, -50%);
             max-width: 100%;
             text-align: start;
+            margin-top: -20%;
         }
         
         .title-header h1 {
@@ -847,7 +851,7 @@ header {
             transform: translate(-50%, -50%);
             max-width: 100%;
             text-align: start;
-            margin-top: -10%;
+            margin-top: -25%;
         }
         
         .title-header h1 {
