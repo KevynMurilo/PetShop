@@ -2,6 +2,8 @@
 
 Este é um projeto de um website para um pet shop fictício. O site foi desenvolvido utilizando HTML, CSS e JavaScript para criar uma interface interativa e responsiva.
 
+Link do site: https://petshopkevyn.netlify.app/
+
 ![petshop](https://github.com/KevynMurilo/PetShop/assets/132490286/070c5145-16ce-471b-82cf-9dd37e1ddf46)
 
 
